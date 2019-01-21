@@ -1,5 +1,5 @@
 {
-    "name"        : "bernard/bernard",
+    "name"        : "khanhicetea/bernard",
     "description" : "Message queue implemented in PHP with Redis as a backend.",
     "license"     : "MIT",
 
